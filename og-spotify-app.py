@@ -4,10 +4,10 @@ import random
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
 
-client_id = '0fc9e617fc704e7687f101a0acaf37c2'
-client_secret = '37801d4b7ddd42e48007bb446d7e4f24'
+client_id = '?'
+client_secret = '?'
 
-auth_manager = SpotifyClientCredentials(client_id='0fc9e617fc704e7687f101a0acaf37c2', client_secret='37801d4b7ddd42e48007bb446d7e4f24')
+auth_manager = SpotifyClientCredentials(client_id='?', client_secret='?')
 sp = spotipy.Spotify(auth_manager=auth_manager)
 
 # create dictionary mapping explanation to emotion
