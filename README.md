@@ -2,8 +2,8 @@
 CS458 Automated Decisions Systems - Final Project
 
 # GETTING STARTED
-    CLIENT ID: 0fc9e617fc704e7687f101a0acaf37c2
-    CLIENT SECRET: 37801d4b7ddd42e48007bb446d7e4f24
+    CLIENT ID: ?
+    CLIENT SECRET: ?
 
 # Project Overview:
 The Mood-Based Music Recommendation System is designed to offer personalized song suggestions tailored to the user's current emotional state. Leveraging the Spotify API, this system allows users to input their mood and optionally adjust preferences to receive customized song recommendations. By analyzing the user's mood and preferences, the system aims to enhance the music listening experience by providing relevant and enjoyable song choices.
